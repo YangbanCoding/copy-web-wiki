@@ -1,0 +1,18 @@
+- table:
+    schema: public
+    name: doc_version
+  object_relationships:
+  - name: wiki_doc
+    using:
+      foreign_key_constraint_on: wiki_doc_name
+- table:
+    schema: public
+    name: wiki_doc
+  array_relationships:
+  - name: doc_versions
+    using:
+      foreign_key_constraint_on:
+        column: wiki_doc_name
+        table:
+          schema: public
+          name: doc_version

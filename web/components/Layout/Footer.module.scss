@@ -1,0 +1,12 @@
+.container {
+  border-top: 1px solid #999999;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.space {
+  height: 16px;
+}

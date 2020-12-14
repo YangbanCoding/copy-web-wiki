@@ -1,0 +1,15 @@
+@import 'styles/variables.scss';
+
+.main_header {
+  background-color: $primaryColor;
+  padding: 12px;
+  color: white;
+}
+.search_box {
+  display: flex;
+}
+.search_input {
+  flex: 1;
+  height: 32px;
+  border: 1px solid #999999;
+}

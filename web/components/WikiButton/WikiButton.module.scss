@@ -1,0 +1,14 @@
+.container {
+  height: 32px;
+  display: flex;
+  justify-content: flex-end;
+  border: 1px solid #999999;
+  border-top: 0;
+}
+.button {
+  width: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 1px solid #999999;
+}
