@@ -55,9 +55,6 @@ npm run dev
 - 공통
   - 문서 제목으로 문서 찾기
     - Query wiki_doc_pk
-- /
-  - 최근 생성된 문서들 읽기
-    - Query wiki_doc
 - /w/[문서이름]
   - 해당 문서의 최신 버전 읽기
     - Query wiki_doc_pk
