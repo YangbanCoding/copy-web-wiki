@@ -43,7 +43,7 @@ npm run dev
 
 ## DB 테이블
 - wiki_doc : title
-- doc_version : created_at, body
+- doc_version : created_at, body, version
 
 ## 테이블 관계
 - one to many
