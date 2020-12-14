@@ -42,8 +42,8 @@ npm run dev
 - /history/[문서이름] : 문서의 모든 버전 보기
 
 ## DB 테이블
-- wiki_doc : title
-- doc_version : created_at, body, version
+- wiki_doc : title(Primary Key)
+- doc_version : id(Primary Key), created_at, body, version
 
 ## 테이블 관계
 - one to many
