@@ -62,6 +62,8 @@ npm run dev
   - 해당 문서의 최신 버전 읽기
     - Query wiki_doc_pk
   - 새로운 문서 생성하기
+    - Mutation insert_wiki_doc
+  - 문서의 새로운 버전 생성하기
     - Mutation insert_doc_version
 - /history[문서이름]
   - 해당 문서의 모든 버전 읽기
