@@ -1,4 +1,4 @@
-# [카피 - 나무위키] 양반위키 v0.1
+# [카피 - 웹 - 나무위키] 양반위키 v0.1
 
 ## 예제 웹 사이트
 [https://yangban-wiki.vercel.app/](https://yangban-wiki.vercel.app/)
