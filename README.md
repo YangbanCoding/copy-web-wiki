@@ -87,10 +87,5 @@ npm run dev
 1. 초기 설정
 2. 백엔드 설정
 3. 프론트 엔드 html, css 작업
-  - 초기 설정
-    - 서버 연결
-    - eslint 적용
-    - sass 설치
-    - import 위치 설정
 4. 프론트 엔드 javascript 작업
 5. 테스트
