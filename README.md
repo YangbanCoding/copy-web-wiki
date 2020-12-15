@@ -24,6 +24,7 @@ npm run dev
 [예제 실행 방법 자세히 보기](https://github.com/YangbanCoding/yangban-beginner/blob/main/docs/back-practice.MD)
 
 ## 영상
+[![카피웹 - 나무위키](http://img.youtube.com/vi/nj8HvLCa1-U/0.jpg)](http://www.youtube.com/watch?v=nj8HvLCa1-U "카피웹 - 나무위키")
 
 ## 선행 강의
 - [입문 웹](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson1-tutorial)
