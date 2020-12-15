@@ -29,9 +29,8 @@ yarn dev
 [![카피웹 - 나무위키](http://img.youtube.com/vi/nj8HvLCa1-U/0.jpg)](http://www.youtube.com/watch?v=nj8HvLCa1-U "카피웹 - 나무위키")
 
 ## 선행 강의
-- [입문 웹](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/lesson1-tutorial)
-- [입문 백엔드](https://github.com/YangbanCoding/yangban-beginner/tree/main/examples/back1-tutorial)
-- 입문 프론트엔드(준비 중)
+- [입문](https://github.com/YangbanCoding/yangban-beginner/blob/main/docs/beginner.MD)
+  - 웹, 백엔드, 프론트엔드
 
 ## 요구사항
 - 누구나 새로운 위키 문서를 생성할 수 있다
