@@ -2,6 +2,8 @@
 
 ## 예제 웹 사이트
 [https://yangban-wiki.vercel.app/](https://yangban-wiki.vercel.app/)
+- heroku 무료 서버가 느리기 때문에 로딩이 길어요
+
 ## 예제 실행 하기
 git bash에서
 ```bash
